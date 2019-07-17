@@ -7,11 +7,8 @@
     "facebook_banner": "330374121198551_330375237865106",
     "facebook_banner_large": "330374121198551_330378627864767",
     "facebook_interstitial": "330374121198551_330375721198391",
-    "numberOfClicksMax": 10,
+    "numberOfClicksMax": 100,
     "priority_of_banner": [
-      "admob",
-      "facebook",
-      "facebook-large"
     ],
     "priority_of_interstitial": [
       "admob",
