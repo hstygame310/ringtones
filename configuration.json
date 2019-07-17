@@ -13,12 +13,6 @@
       "facebook",
       "facebook-large"
     ],
-    "priority_of_banner1": [
-      "admob-large",
-      "facebook-large",
-      "admob",
-      "facebook"
-    ],
     "priority_of_interstitial": [
       "admob",
       "admob-video",
@@ -27,14 +21,8 @@
     ],
     "unity_id": "1386022"
   },
-  "alert_launch": {
-    "title": "Warning",
-    "message": "This is message",
-    "url": "https://google.com",
-    "action_cancel": "Cancel",
-    "action_ok": "Open the link"
-  },
-  "rate_app_launch": false,
+  "alert_launch": null,
+  "rate_app_launch": true,
   "moreapps": [
     {
       "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/36/b7/9b/36b79b50-1257-0807-f4da-37cd7b9c9f60/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/460x0w.jpg",
@@ -45,11 +33,6 @@
       "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/74/95/c3/7495c3ca-375a-6a55-02f8-3d6241a79662/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.jpg",
       "id": "1407400059",
       "title": "Tourist Translate World"
-    },
-    {
-      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/26/23/31/262331f4-5c3c-42b7-c46b-04e9eb83bd14/AppIcon-1x_U007emarketing-85-220-0-9.png/230x0w.jpg",
-      "id": "1393827831",
-      "title": "Học Tiếng Nhật Minna 2019"
     }
   ]
 }
