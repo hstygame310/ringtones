@@ -9,6 +9,8 @@
     "facebook_interstitial": "330374121198551_330375721198391",
     "numberOfClicksMax": 100,
     "priority_of_banner": [
+      "admob",
+      "facebook"
     ],
     "priority_of_interstitial": [
       "admob",
