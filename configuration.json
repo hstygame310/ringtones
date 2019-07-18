@@ -10,7 +10,8 @@
     "numberOfClicksMax": 100,
     "priority_of_banner": [
       "admob",
-      "facebook"
+      "facebook",
+      "moreapp"
     ],
     "priority_of_interstitial": [
       "admob",
