@@ -7,7 +7,7 @@
     "facebook_banner": "330374121198551_330375237865106",
     "facebook_banner_large": "330374121198551_330378627864767",
     "facebook_interstitial": "330374121198551_330375721198391",
-    "numberOfClicksMax": 10,
+    "numberOfClicksMax": 3,
     "priority_of_banner": [
       "admob",
       "facebook",
@@ -22,7 +22,7 @@
     "unity_id": "1386022"
   },
   "alert_launch": null,
-  "rate_app_launch": false,
+  "rate_app_launch": true,
   "moreapps": [
     {
       "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/36/b7/9b/36b79b50-1257-0807-f4da-37cd7b9c9f60/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/460x0w.jpg",
